@@ -1,6 +1,6 @@
 {
-	"version": "Версию",
-	"versionCode": Кодовая версия,
-	"zipUrl": "Ссылка на zip",
-	"changelog": "Ссылка на список изменений"
+	"version": "2.0",
+	"versionCode": 20,
+	"zipUrl": "https://github.com/CherretGit/Zaprett/releases/download/Zapret_2_0_0/zapret.zip",
+	"changelog": "https://raw.githubusercontent.com/CherretGit/Zaprett/refs/heads/main/changelog.md"
 }
