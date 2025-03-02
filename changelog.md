@@ -1,1 +1,1 @@
-Updated Zapret binaries
+New config
