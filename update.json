@@ -1,6 +1,6 @@
 {
-	"version": "2.1",
-	"versionCode": 21,
-	"zipUrl": "https://github.com/egor-white/zaprett/releases/download/Zapret_2_1_0/zapret.zip",
+	"version": "2.2",
+	"versionCode": 22,
+	"zipUrl": "https://github.com/egor-white/zaprett/releases/download/Zapret_2_2_0/zapret.zip",
 	"changelog": "https://raw.githubusercontent.com/egor-white/zaprett/refs/heads/main/changelog.md"
 }
