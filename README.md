@@ -1,4 +1,7 @@
 # zaprett
+
+### [Официальный Telegram-канал модуля](https://t.me/zaprett_module)
+
 ## О модуле
 Представляет собой портированную версию [zapret](https://github.com/bol-van/zapret/) от [bol-van](https://github.com/bol-van/) для Android устройств.
 Требования:
@@ -11,7 +14,5 @@
 
 Планируемый функционал:
 + Автообновление модуля
-
-Модуль разрабатывается при поддержке **Telegram чата** [Usb.mineralka #нахуйРКН](https://t.me/mineral_usb)
 
 Оригинальный автор - [notmalware](https://t.me/notmalware). Отредактировано - [egor-white](https://t.me/cheesedroid), [MT6833](https://t.me/MT6833), [Mineralka](https://t.me/Program_dayn), [Cherret](https://t.me/Cherret).
